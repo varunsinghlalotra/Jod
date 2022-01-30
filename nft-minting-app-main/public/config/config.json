@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0xed7018bf3b799e9603a515774bf149b7df6e9f93",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xc67427c6a8768cb8a3ab39362da4324309a493dc2f79af649aa58d0012def0af",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
+  "NFT_NAME": "JodPunks",
+  "SYMBOL": "JPNFTs",
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/jodpunks-v2",
   "SHOW_BACKGROUND": true
 }
