@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xed7018bf3b799e9603a515774bf149b7df6e9f93",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xc67427c6a8768cb8a3ab39362da4324309a493dc2f79af649aa58d0012def0af",
+  "CONTRACT_ADDRESS": "0x7F7F01f9E137a1D638abf8202B18d7303B67835d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x7f7f01f9e137a1d638abf8202b18d7303b67835d",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -10,7 +10,7 @@
   "SYMBOL": "JPNFTs",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 3.5,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/jodpunks-v2",
